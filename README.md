@@ -16,16 +16,6 @@ I love fixing things and solving problems, especially when those problems involv
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-
-- React project
-- Portifolio project
-
-## 🌱 I'm currently learning
-
-- React
-- TypeScript
-
 ## 💼 Technical Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
