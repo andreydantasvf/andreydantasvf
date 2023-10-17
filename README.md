@@ -17,10 +17,10 @@
 # Hello there, I'm Andrey Dantas 👋
 
 <div>
-<img align="right" width="300" height="200" style="margin-left: 25px" src="./.github/spiderman-angry.gif"/>
+<img align="right" width="300" style="margin-left:" src="./.github/spiderman-angry.gif"/>
 
 <h3>
-I'm a Full-stack Web Developer 💻!
+I'm a Web Developer 💻!
 </h3> 
 
 I love fixing things and solving problems, especially when those problems involve programming. I love challenges that push me to my maximum effort. "**Hard work beats talent when talent doesn't work hard**"
