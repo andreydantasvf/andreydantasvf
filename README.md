@@ -12,7 +12,6 @@
 </div>
 
 <br>
-<br>
 
 # Hello there, I'm Andrey Dantas 👋
 
