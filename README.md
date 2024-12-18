@@ -13,11 +13,13 @@
 # Hello there, I'm Andrey Dantas 👋
 
 <div>
-<img align="center" width="300" style="margin-left:" src="./.github/spiderman-angry.gif"/>
+<img align="right" width="300" style="margin-left:" src="./.github/spiderman-angry.gif"/>
 
 <h3>
 I'm a Web Developer 💻!
 </h3> 
+
+I love the spider-man, CR7 and Greek mythology 😎
 
 </div>
 
